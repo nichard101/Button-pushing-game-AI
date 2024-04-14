@@ -1,0 +1,8 @@
+green diamond true
+purple diamond true
+yellow diamond true
+purple star true
+yellow star true
+yellow square true
+blue square true
+blue cross true

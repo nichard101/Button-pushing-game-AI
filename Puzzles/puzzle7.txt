@@ -1,0 +1,9 @@
+blue circle false
+blue diamond false
+blue star true
+yellow circle false
+yellow diamond true
+yellow star false
+red circle true
+red diamond false
+red star false

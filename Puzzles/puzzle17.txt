@@ -1,0 +1,10 @@
+red triangle true
+blue circle true
+yellow square true
+orange circle false
+orange diamond false
+green diamond false
+green triangle false
+green star false
+purple star false
+purple square false

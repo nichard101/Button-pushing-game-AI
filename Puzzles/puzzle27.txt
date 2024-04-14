@@ -1,0 +1,12 @@
+orange circle false
+orange star false
+orange square false
+orange triangle false
+red star false
+red square false
+red triangle false
+red cross true
+blue star false
+blue square false
+blue triangle false
+blue cross true

@@ -1,0 +1,14 @@
+orange star true
+orange triangle true
+blue star true
+blue circle true
+red triangle true
+red heart true
+yellow circle true
+yellow heart true
+yellow diamond true
+yellow square true
+green diamond false
+green cross true
+purple cross true
+purple square false
